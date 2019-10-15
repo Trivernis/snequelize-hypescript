@@ -3,7 +3,38 @@
 [![NPM](https://img.shields.io/npm/v/sequelize-typescript.svg)](https://www.npmjs.com/package/sequelize-typescript)
 [![Dependency Status](https://img.shields.io/david/RobinBuschmann/sequelize-typescript.svg)](https://www.npmjs.com/package/sequelize-typescript)
 
-# snequelize-hypescript
+
+
+# snequelize-hypescript :snake:
+
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+:snake:
+
+![](https://cloud.trivernis.net/apps/files_sharing/publicpreview/NaCxE2QgP7yfczi?x=1639&y=594&a=true&file=blush_snek.png&scalingup=0)
+
 Decorators and some other features for sequelize (v5).
 
  - [Installation](#installation)
