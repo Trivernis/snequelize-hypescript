@@ -34,6 +34,7 @@ Decorators and some other features for sequelize (v5).
  - [Recommendations and limitations](#recommendations-and-limitations)
 
 ## Installation
+*snequelize-hypescript* can't be installed but you could install *sequelize-typescript*.
 *sequelize-typescript* requires [sequelize](https://github.com/sequelize/sequelize), additional typings as documented [here](http://docs.sequelizejs.com/manual/typescript.html) and [reflect-metadata](https://www.npmjs.com/package/reflect-metadata)
 ```
 npm install sequelize
