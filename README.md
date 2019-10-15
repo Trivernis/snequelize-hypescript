@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/v/sequelize-typescript.svg)](https://www.npmjs.com/package/sequelize-typescript)
 [![Dependency Status](https://img.shields.io/david/RobinBuschmann/sequelize-typescript.svg)](https://www.npmjs.com/package/sequelize-typescript)
 
-# sequelize-typescript
+# snequelize-hypescript
 Decorators and some other features for sequelize (v5).
 
  - [Installation](#installation)
